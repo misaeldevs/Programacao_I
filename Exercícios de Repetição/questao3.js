@@ -9,8 +9,7 @@ b) Qual a média de veículos nas cinco cidades juntas;
 c) Qual a média de acidentes nas cidades com menos de 50000 veículos.
  */
 
-const prompt = require('prompt-sync')();
-const dados = []
+const prompt = require('prompt-sync')()
 
 let nomeCidade = []
 let numeroAcidentes = []
